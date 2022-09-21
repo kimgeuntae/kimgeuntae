@@ -1,10 +1,13 @@
 ### Hey 👋, I'm Tay
 
+<!-- Contacts -->
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kgntae/)](https://www.facebook.com/kgntae/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geunt617@gmail.com)](mailto:geunt617@gmail.com)
+[![Github](https://img.shields.io/github/followers/kimgeuntae?label=Follow&style=social)](https://github.com/kimgeuntae)
+
 <!-- Self Introduction -->
-
-<!-- Contacts -->
-
-<!-- Contacts -->
+I'm a Back-end engineer thats very passionate about solving complicated problems and creating software solutions.<br />
+More creative ideas , Trying new ways , Improvements and Solve problems.
 
 <!-- Git Info -->
 
