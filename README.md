@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/kimgeuntae?label=Follow&style=social)](https://github.com/kimgeuntae)
 
 <!-- Self Introduction -->
-I'm a Software engineer thats very passionate about solving complicated problems and creating software solutions.<br />
+I'm a Software Engineer thats very passionate about solving complicated problems and creating software solutions.<br />
 More creative ideas , Trying new ways , Improvements and Solve problems.
 
 <!-- Git Stats -->
