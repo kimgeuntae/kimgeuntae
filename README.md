@@ -77,30 +77,16 @@ More creative ideas , Trying new ways , Improvements and Solve problems.
 <br />
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-🌆 Daytime                859 commits         █████████░░░░░░░░░░░░░░░░   35.02 % 
-🌃 Evening                973 commits         ██████████░░░░░░░░░░░░░░░   39.67 % 
-🌙 Night                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                859 commits         █████████░░░░░░░░░░░░░░░░   34.99 % 
+🌃 Evening                975 commits         ██████████░░░░░░░░░░░░░░░   39.71 % 
+🌙 Night                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 28/02/2024 11:39:07 UTC
+ Last Updated on 28/02/2024 11:45:58 UTC
 <!--END_SECTION:waka-->
