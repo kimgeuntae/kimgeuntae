@@ -77,4 +77,77 @@ More creative ideas , Trying new ways , Improvements and Solve problems.
 <br />
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+🌆 Daytime                859 commits         █████████░░░░░░░░░░░░░░░░   35.05 % 
+🌃 Evening                971 commits         ██████████░░░░░░░░░░░░░░░   39.62 % 
+🌙 Night                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Tuesday                  446 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Wednesday                417 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Thursday                 437 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Friday                   417 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Saturday                 179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Sunday                   164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Batchfile                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/kimgeuntae/kimgeuntae/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/02/2024 11:19:38 UTC
+<!--END_SECTION:waka-->
