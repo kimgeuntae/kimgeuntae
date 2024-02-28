@@ -9,16 +9,26 @@
 I'm a Software Engineer thats very passionate about solving complicated problems and creating software solutions.<br />
 More creative ideas , Trying new ways , Improvements and Solve problems.
 
-<!-- Git Stats -->
-<!-- Light Mode -->
 <div align="center">
-    <!-- Git Top Langs -->
+    <!-- Git Stats Top Langs -->
+    <!-- Light Mode -->
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
         <img height=200
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgeuntae&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only"
             alt="Tay's Language stats" />
     </a>
+    <!-- Dark Mode -->
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img height=200
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgeuntae&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only"
+            alt="Tay's Language stats" />
+    </a>
+
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+
     <!-- Git Stats -->
+    <!-- Light Mode -->
      <!-- 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
         <img height=200
@@ -26,17 +36,7 @@ More creative ideas , Trying new ways , Improvements and Solve problems.
             alt="Tay's Github stats" />
     </a>
     -->
-</div>
-
-<!-- Dark Mode -->
-<div align="center">
-    <!-- Git Top Langs -->
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=200
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgeuntae&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only"
-            alt="Tay's Language stats" />
-    </a>
-    <!-- Git Stats -->
+    <!-- Dark Mode -->
     <!--
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img height=200
@@ -75,18 +75,3 @@ More creative ideas , Trying new ways , Improvements and Solve problems.
 </div>
 
 <br />
-
-  <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-🌆 Daytime                859 commits         █████████░░░░░░░░░░░░░░░░   34.99 % 
-🌃 Evening                975 commits         ██████████░░░░░░░░░░░░░░░   39.71 % 
-🌙 Night                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-```
-
-
-
- Last Updated on 28/02/2024 11:48:46 UTC
-<!--END_SECTION:waka-->
