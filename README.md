@@ -9,37 +9,16 @@
 I'm a Software Engineer thats very passionate about solving complicated problems and creating software solutions.<br />
 More creative ideas , Trying new ways , Improvements and Solve problems.
 
+<!-- Git Stats -->
+<!-- Light Mode -->
 <div align="center">
-    <!-- Git Stats Top Langs -->
-    <!-- Light Mode -->
+    <!-- Git Top Langs -->
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
         <img height=200
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgeuntae&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only"
             alt="Tay's Language stats" />
     </a>
-    <!-- Dark Mode -->
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=200
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgeuntae&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only"
-            alt="Tay's Language stats" />
-    </a>
-
-    <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-🌆 Daytime                859 commits         █████████░░░░░░░░░░░░░░░░   34.96 % 
-🌃 Evening                977 commits         ██████████░░░░░░░░░░░░░░░   39.76 % 
-🌙 Night                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-```
-
-
-
-<!--END_SECTION:waka-->
-
     <!-- Git Stats -->
-    <!-- Light Mode -->
      <!-- 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
         <img height=200
@@ -47,7 +26,17 @@ More creative ideas , Trying new ways , Improvements and Solve problems.
             alt="Tay's Github stats" />
     </a>
     -->
-    <!-- Dark Mode -->
+</div>
+
+<!-- Dark Mode -->
+<div align="center">
+    <!-- Git Top Langs -->
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img height=200
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgeuntae&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only"
+            alt="Tay's Language stats" />
+    </a>
+    <!-- Git Stats -->
     <!--
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img height=200
@@ -86,3 +75,6 @@ More creative ideas , Trying new ways , Improvements and Solve problems.
 </div>
 
 <br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
